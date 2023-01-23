@@ -1,0 +1,33 @@
+{
+    "access_key": "72e7f431-9b1c-11ed-83df-f2e940672662",
+    "secret_key": "c4d82893-cf27-4f1f-99df-f461f96fab29",
+    "item_type": [
+        "Food",
+        "Shoping",
+        "Medical",
+        "Education",
+        "Bills",
+        "Others"
+    ],
+    "email_list": [
+        "souvik@gmail.com"
+    ],
+    "users": [
+        {
+            "name": "Souvik Mondal",
+            "username": "souvik",
+            "email": "souvik@gmail.com",
+            "password": "12345",
+            "purchases": {
+                "2023-01-23": [
+                    {
+                        "item_name": "Maggi",
+                        "item_type": "Food",
+                        "item_price": "14",
+                        "purchase_time": "2023-01-23 18:23:11.101325+05:30"
+                    }
+                ]
+            }
+        }
+    ]
+}
